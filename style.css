@@ -61,8 +61,8 @@ p,
 .meta {
 	grid-column: 2 / 3;
 }
-figure,
-blockquote {
+.blog figure,
+.blog blockquote {
 	grid-column: 1 / -1;
 	margin: 0 auto;
 }
